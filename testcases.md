@@ -34,3 +34,4 @@
 - When a customer or employee is unsuspended their status should go back to what it was before being suspended
 - Expected: If a customer of employee is unsuspended and their status was active then it should go back to being active. If the status was inactive, it should go back to being inactive. 
 - Actually: When a customer or employee with active status before supension was unsuspended their status was went back to active. However, if their status before being suspended was inactive, it was changed to active instead of inactive like it should be. 
+# Manage Book test cases:
