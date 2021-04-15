@@ -6,8 +6,8 @@
 
 ## Create and Delete a Book from Category
 - Admin adds a new book to category
-- Book should be updated in Categories list
-- Book is updated
+- Expected: Book should be updated in Categories list
+- Actually: Book is updated
 
 # Promotion Test Cases
 ## Valid Promotion Entered
